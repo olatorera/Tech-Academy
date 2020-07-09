@@ -102,15 +102,34 @@ margin-top: 5px;
 .headingpos{
     margin-right: 39rem;
     margin-left: 15rem;
+    font-family: sans-serif
 }
 
 .active{
     color: rgb(89, 89, 236);
+    font-family: sans-serif
 }
 .underline{
     border-bottom-style: solid;
     border-color:rgb(2, 2, 77);
    border-bottom-width: 6px;
    border-radius: 3px;
- 
+}
+.text2{
+    display: inline-block;
+    font-family: sans-serif
+}
+.headingpo{
+    margin-right: 42rem;
+    margin-left: 15rem;
+}
+.headingpo{
+    color: rgb(47, 47, 185);
+}
+.writeup{
+    font-family: sans-serif 
+    text-align: center;
+    margin-right:20rem;
+    margin-left: 20rem;
+    margin-top: 35px;
 }
